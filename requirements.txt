@@ -2,7 +2,7 @@ distrax==0.1.5
 einops==0.8.0
 flax==0.10.2
 huggingface_hub==0.26.5
-jax==0.4.36
+jax[cuda12]==0.4.36
 numpy==2.2.0
 orbax==0.1.9
 rich==13.9.4
